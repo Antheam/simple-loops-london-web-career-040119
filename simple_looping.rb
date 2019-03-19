@@ -62,5 +62,6 @@ def for_iterator(number_of_times)
   times = 1..number_of_times
   for time in times do
     puts "#{phrase}"
+  end
 end
 
